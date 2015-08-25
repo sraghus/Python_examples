@@ -13,3 +13,25 @@ def main():
 # the program.
 if __name__ == '__main__':
     main()
+
+
+print 'Jack and Jill went up a hill'
+print 'Jack fell down, and broke his crown,'
+print 'and Jill came tumbling after.'
+print 'to fetch a pail of water;'
+print("2 + 2 is", 2 + 2)
+print("3 * 4 is", 3 * 4)
+print("100 - 1 is", 100-1)
+print("(33 + 2) / 5 + 11.5 is", (33 + 2) / 5 + 11.5)
+print()
+print("Firstish Grade")
+print("1 + 1 =", 1 + 1)
+print("2 + 4 =", 2 + 4)
+print("5 - 2 =", 5 - 2)
+print()
+print("Thirdish Grade")
+print("243 - 43 =", 243 - 43)
+print("12 * 4 =", 12 * 4)
+print("12 / 3 =", 12 / 3)
+print("13 / 3 =", 13 // 3, "R", 13 % 3)
+
