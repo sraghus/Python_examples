@@ -26,7 +26,7 @@ def main():
     #print("12 / 3 =", 12 / 3)
     #print("13 / 3 =", 13 // 3, "R", 13 % 3)
 
-    print("My name is " + " " + "Birthday:" + "March 15th")
+    print("My name is " + "Prasad " + "\nBirthday: " + "March 15th")
 
     max(2132,112,32489.88)
 
